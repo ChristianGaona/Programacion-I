@@ -13,7 +13,7 @@ try:
     print(lista)
     
     # Si intentamos remover un elemento que no existe en la lista, prvocará un ValueError.
-    # Lista.remove("Akane")
+    # lista.remove("Akane")
     
     removido = lista.pop(4)  # Remover un elemento por su índice.
     print(removido)
