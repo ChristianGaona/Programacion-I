@@ -9,7 +9,7 @@ print('Acaban de abrir un Carl\'s Jr en Guaymas')
 #  se usa "\" cuando se añaden dos "" para que no cometa un error.
 print("\"No hubo sobrevivientes\", declaró el oficial")
 
-#para hacer un salto de línea, escriba "\n" despues de la cadena.
+# para hacer un salto de línea, escriba "\n" despues de la cadena.
 print('Lista de compras: \nLeche\nManzanas\nHuevos\nCereal\nPan') 
 
 # Puedes usar """ para crear uno o más saltos de línea sin tener que usar "\n",
